@@ -1,7 +1,6 @@
 kind: Environment
 name: dev
 type: primary
-urlHandle: monitoring
 components:
     -
         kind: Service
